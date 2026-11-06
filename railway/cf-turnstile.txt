@@ -1,0 +1,3 @@
+https://cloudflare-solver-production-f8c5.up.railway.app
+https://cloudflare-solver-production-t5v7.up.railway.app
+https://cloudflare-solver-production-7xte.up.railway.app
